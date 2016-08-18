@@ -6,7 +6,7 @@ import sys
 
 f = open(sys.argv[1], 'rt')
 schedule = [];
-week = sys.argv[2]
+cycle = sys.argv[2]
 try:
   reader = csv.reader(f)
   for row in reader:
@@ -58,6 +58,6 @@ def send_emails(team_hash, team1, team2):
 	return;
 
 for x in schedule:
-	if x[0] == week:
+	if x[0] == cycle:
 		send_emails(team_hash, x[1], x[2])
 		send_emails(team_hash, x[2], x[1])
