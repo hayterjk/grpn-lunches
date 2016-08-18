@@ -1,0 +1,231 @@
+1,Tronicon,User Sessions
+1,Goods CIM GDP,Flux
+1,FED,App Ops Dev
+1,App Ops Support,EDW
+1,Connection,Bemod
+1,Optimize,Supply Intel
+1,Salesforce,Ion
+1,Deal Estate,Coupons
+1,Users,RAPT
+1,Funnel,Local Third Party Feed
+1,Deal Platform,Performance
+2,Tronicon,RAPT
+2,Coupons,Local Third Party Feed
+2,Ion,Performance
+2,Supply Intel,Deal Platform
+2,Bemod,Funnel
+2,EDW,Users
+2,App Ops Dev,Deal Estate
+2,Flux,Salesforce
+2,User Sessions,Optimize
+2,Goods CIM GDP,Connection
+2,FED,App Ops Support
+3,Tronicon,Optimize
+3,Salesforce,Connection
+3,Deal Estate,App Ops Support
+3,Users,FED
+3,Funnel,Goods CIM GDP
+3,Deal Platform,User Sessions
+3,Performance,Flux
+3,Local Third Party Feed,App Ops Dev
+3,RAPT,EDW
+3,Coupons,Bemod
+3,Ion,Supply Intel
+4,Tronicon,App Ops Support
+4,Connection,FED
+4,Optimize,Goods CIM GDP
+4,Salesforce,User Sessions
+4,Deal Estate,Flux
+4,Users,App Ops Dev
+4,Funnel,EDW
+4,Deal Platform,Bemod
+4,Performance,Supply Intel
+4,Local Third Party Feed,Ion
+4,RAPT,Coupons
+5,Tronicon,FED
+5,App Ops Support,Goods CIM GDP
+5,Connection,User Sessions
+5,Optimize,Flux
+5,Salesforce,App Ops Dev
+5,Deal Estate,EDW
+5,Users,Bemod
+5,Funnel,Supply Intel
+5,Deal Platform,Ion
+5,Performance,Coupons
+5,Local Third Party Feed,RAPT
+6,Tronicon,Local Third Party Feed
+6,RAPT,Performance
+6,Coupons,Deal Platform
+6,Ion,Funnel
+6,Supply Intel,Users
+6,Bemod,Deal Estate
+6,EDW,Salesforce
+6,App Ops Dev,Optimize
+6,Flux,Connection
+6,User Sessions,App Ops Support
+6,Goods CIM GDP,FED
+7,Tronicon,Salesforce
+7,Deal Estate,Optimize
+7,Users,Connection
+7,Funnel,App Ops Support
+7,Deal Platform,FED
+7,Performance,Goods CIM GDP
+7,Local Third Party Feed,User Sessions
+7,RAPT,Flux
+7,Coupons,App Ops Dev
+7,Ion,EDW
+7,Supply Intel,Bemod
+8,Tronicon,Supply Intel
+8,Bemod,Ion
+8,EDW,Coupons
+8,App Ops Dev,RAPT
+8,Flux,Local Third Party Feed
+8,User Sessions,Performance
+8,Goods CIM GDP,Deal Platform
+8,FED,Funnel
+8,App Ops Support,Users
+8,Connection,Deal Estate
+8,Optimize,Salesforce
+9,Tronicon,Goods CIM GDP
+9,FED,User Sessions
+9,App Ops Support,Flux
+9,Connection,App Ops Dev
+9,Optimize,EDW
+9,Salesforce,Bemod
+9,Deal Estate,Supply Intel
+9,Users,Ion
+9,Funnel,Coupons
+9,Deal Platform,RAPT
+9,Performance,Local Third Party Feed
+10,Tronicon,Deal Estate
+10,Users,Salesforce
+10,Funnel,Optimize
+10,Deal Platform,Connection
+10,Performance,App Ops Support
+10,Local Third Party Feed,FED
+10,RAPT,Goods CIM GDP
+10,Coupons,User Sessions
+10,Ion,Flux
+10,Supply Intel,App Ops Dev
+10,Bemod,EDW
+11,Tronicon,Bemod
+11,EDW,Supply Intel
+11,App Ops Dev,Ion
+11,Flux,Coupons
+11,User Sessions,RAPT
+11,Goods CIM GDP,Local Third Party Feed
+11,FED,Performance
+11,App Ops Support,Deal Platform
+11,Connection,Funnel
+11,Optimize,Users
+11,Salesforce,Deal Estate
+12,Tronicon,Ion
+12,Supply Intel,Coupons
+12,Bemod,RAPT
+12,EDW,Local Third Party Feed
+12,App Ops Dev,Performance
+12,Flux,Deal Platform
+12,User Sessions,Funnel
+12,Goods CIM GDP,Users
+12,FED,Deal Estate
+12,App Ops Support,Salesforce
+12,Connection,Optimize
+13,Tronicon,Deal Platform
+13,Performance,Funnel
+13,Local Third Party Feed,Users
+13,RAPT,Deal Estate
+13,Coupons,Salesforce
+13,Ion,Optimize
+13,Supply Intel,Connection
+13,Bemod,App Ops Support
+13,EDW,FED
+13,App Ops Dev,Goods CIM GDP
+13,Flux,User Sessions
+14,Tronicon,EDW
+14,App Ops Dev,Bemod
+14,Flux,Supply Intel
+14,User Sessions,Ion
+14,Goods CIM GDP,Coupons
+14,FED,RAPT
+14,App Ops Support,Local Third Party Feed
+14,Connection,Performance
+14,Optimize,Deal Platform
+14,Salesforce,Funnel
+14,Deal Estate,Users
+15,Tronicon,Connection
+15,Optimize,App Ops Support
+15,Salesforce,FED
+15,Deal Estate,Goods CIM GDP
+15,Users,User Sessions
+15,Funnel,Flux
+15,Deal Platform,App Ops Dev
+15,Performance,EDW
+15,Local Third Party Feed,Bemod
+15,RAPT,Supply Intel
+15,Coupons,Ion
+16,Tronicon,Flux
+16,User Sessions,App Ops Dev
+16,Goods CIM GDP,EDW
+16,FED,Bemod
+16,App Ops Support,Supply Intel
+16,Connection,Ion
+16,Optimize,Coupons
+16,Salesforce,RAPT
+16,Deal Estate,Local Third Party Feed
+16,Users,Performance
+16,Funnel,Deal Platform
+17,Tronicon,Coupons
+17,Ion,RAPT
+17,Supply Intel,Local Third Party Feed
+17,Bemod,Performance
+17,EDW,Deal Platform
+17,App Ops Dev,Funnel
+17,Flux,Users
+17,User Sessions,Deal Estate
+17,Goods CIM GDP,Salesforce
+17,FED,Optimize
+17,App Ops Support,Connection
+18,Tronicon,Funnel
+18,Deal Platform,Users
+18,Performance,Deal Estate
+18,Local Third Party Feed,Salesforce
+18,RAPT,Optimize
+18,Coupons,Connection
+18,Ion,App Ops Support
+18,Supply Intel,FED
+18,Bemod,Goods CIM GDP
+18,EDW,User Sessions
+18,App Ops Dev,Flux
+19,Tronicon,App Ops Dev
+19,Flux,EDW
+19,User Sessions,Bemod
+19,Goods CIM GDP,Supply Intel
+19,FED,Ion
+19,App Ops Support,Coupons
+19,Connection,RAPT
+19,Optimize,Local Third Party Feed
+19,Salesforce,Performance
+19,Deal Estate,Deal Platform
+19,Users,Funnel
+20,Tronicon,Users
+20,Funnel,Deal Estate
+20,Deal Platform,Salesforce
+20,Performance,Optimize
+20,Local Third Party Feed,Connection
+20,RAPT,App Ops Support
+20,Coupons,FED
+20,Ion,Goods CIM GDP
+20,Supply Intel,User Sessions
+20,Bemod,Flux
+20,EDW,App Ops Dev
+21,Supply Intel,Salesforce
+21,Bemod,Optimize
+21,EDW,Connection
+21,App Ops Dev,App Ops Support
+21,Flux,FED
+21,User Sessions,Goods CIM GDP
+21,Tronicon,Performance
+21,Local Third Party Feed,Deal Platform
+21,RAPT,Funnel
+21,Coupons,Users
+21,Ion,Deal Estate
